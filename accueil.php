@@ -22,7 +22,7 @@
             </ul> 
          </nav> 
          <div clasS="main-heading">
-            <h1> Notre site d'Auto-école</h1>
+            <h1> jhbsj,hsjb</h1>
             <p>Vous avez fait le bon choix</p>
          </div>
     </section>
